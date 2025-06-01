@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"actions":[{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1},{"skillId":20,"rating":5,"conditionType":0,"conditionParam1":0,"conditionParam2":0}],"battlerHue":0,"battlerName":"great_evil_benzene","dropItems":[{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0}],"exp":10,"traits":[{"code":31,"dataId":1,"value":0}],"gold":0,"name":"Great evil benzene","note":"","params":[96,0,5,50,5,50,20,1]}
+]
